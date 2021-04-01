@@ -1,26 +1,30 @@
 h1 {
-    color: rgba(225,225,225,1);
-   
+    color: rgba(225, 225, 225, 1);
 }
 
-#title{
-     margin-bottom: 100px;
+#title {
+    margin-bottom: 100px;
     text-decoration: underline
 }
 
 body {
-    background-color: rgba(55,55,55,1);
-    display:flex;
+    background-color: rgba(55, 55, 55, 1);
+    display: flex;
     justify-content: space-around;
-    height:95vh;
+    height: 95vh;
 }
 
-#div{
-    display:flex;
+#div {
+    display: flex;
     flex-direction: column;
     text-align: center;
 }
 
 p {
     color: orange;
+}
+
+#container {
+    display: flex;
+    justify-content: space-evenly;
 }
