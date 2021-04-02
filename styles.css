@@ -38,3 +38,15 @@ a {
     color: white;
     font-size: 26px;
 }
+
+#fullscreen {
+    position: relative;
+    height: 80px;
+    width: 120px;
+    top: 0;
+    right: 120px;
+}
+
+#video {
+    display: flex;
+}
